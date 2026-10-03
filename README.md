@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-reset-preferences.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-reset-preferences) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-reset-preferences).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-reset-preferences/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-reset-preferences/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-06-09 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-reset-preferences/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-reset-preferences.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-reset-preferences.json)
 
